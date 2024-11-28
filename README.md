@@ -1,10 +1,10 @@
 # diy-log 🌈
 
 [![version](https://img.shields.io/npm/v/diy-log?style=flat-square)](https://www.npmjs.com/package/diy-log)
-[![Codecov](https://img.shields.io/codecov/c/github/meqn/diy-log?token=HYQ5I268HN&style=flat-square&logo=codecov)](https://codecov.io/gh/Meqn/diy-log)
-[![release](https://img.shields.io/github/actions/workflow/status/meqn/diy-log/release.yml?style=flat-square)](https://github.com/Meqn/pipflow/releases)
+[![Codecov](https://img.shields.io/codecov/c/github/Marinerer/diy-log?token=HYQ5I268HN&style=flat-square&logo=codecov)](https://codecov.io/gh/Marinerer/diy-log)
+[![release](https://img.shields.io/github/actions/workflow/status/Marinerer/diy-log/release.yml?style=flat-square)](https://github.com/Marinerer/pipflow/releases)
 [![node.js](https://img.shields.io/node/v/diy-log?style=flat-square&logo=nodedotjs)](https://nodejs.org/en/about/releases/)
-[![languages](https://img.shields.io/github/languages/top/meqn/diy-log?style=flat-square)](https://github.com/Meqn/diy-log)
+[![languages](https://img.shields.io/github/languages/top/Marinerer/diy-log?style=flat-square)](https://github.com/Marinerer/diy-log)
 [![downloads](https://img.shields.io/npm/dm/diy-log?style=flat-square)](https://www.npmjs.com/package/diy-log)
 
 
