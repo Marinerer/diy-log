@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.5.2](https://github.com/Marinerer/diy-log/compare/v2.5.1...v2.5.2) (2024-11-28)
+
+
+### 🚚 Miscellaneous
+
+* **fix:** Update repository ([52d6304](https://github.com/Marinerer/diy-log/commit/52d630419bfd4b717f7f6a2ba0b878a58721f78c))
+* **fix:** Update repository ([76616fb](https://github.com/Marinerer/diy-log/commit/76616fbe5a255c4a413e9ea36638038530075674))
+
 ## [2.5.1](https://github.com/Meqn/diy-log/compare/v2.5.0...v2.5.1) (2023-11-16)
 
 
